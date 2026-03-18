@@ -12,7 +12,7 @@ namespace Tyuiu.KuznetzovAS.Sprint0.Task2.V0.Test
             var res = DataService.GetMessage(name);
 
             //Вызовем класс Assert и метод AreEqual
-            Assert.AreEqual("Привет, Александр", res);
+            Assert.AreEqual("Привет..., Александр", res);
         }
     }
 }
