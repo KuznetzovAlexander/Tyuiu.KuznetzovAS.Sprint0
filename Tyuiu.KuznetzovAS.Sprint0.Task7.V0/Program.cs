@@ -11,7 +11,7 @@ namespace Tyuiu.KuznetzovAS.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #0 | Выполнил: Хоханов Д. А. | НТМ-24-1";
+            Console.Title = "Спринт #0 | Выполнил: Кузнецов А. С. | НТМ-24-1";
             // Длинна строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #0                                                               *");
